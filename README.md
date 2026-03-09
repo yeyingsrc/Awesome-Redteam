@@ -20,7 +20,6 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 👍 means recommand 推荐使用
 
-
 ## _Roadmap_
 
 ![](images/README/Awesome-Redteam-20260302.png)
@@ -216,7 +215,6 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 	- [如何快速使用 alias](#%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8-alias)
 	- [如何优化原生终端](#%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%8E%9F%E7%94%9F%E7%BB%88%E7%AB%AF)
 	- [如何解决终端中文乱码](#%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E7%BB%88%E7%AB%AF%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81)
-
 
 ## 项目导航 _Project Navigation_
 
@@ -1685,6 +1683,9 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 - https://github.com/jd-opensource/JoySafeter 安全能力操作系统
 - https://github.com/Significant-Gravitas/AutoGPT AutoGPT 是一个强大平台，可创建、部署与管理持续运行的 AI 智能体，自动化复杂工作流
 - https://github.com/aliasrobotics/cai 网络安全 AI（CAI），AI 安全框架
+- https://github.com/vxcontrol/pentagi 自动化安全测试
+- https://github.com/Ed1s0nZ/CyberStrikeAI AI 原生安全测试平台
+- https://github.com/KeygraphHQ/shannon AI 渗透测试工具
 
 ### Agent Skills 工程 _Agent Skills_
 
@@ -1693,6 +1694,8 @@ Mac M1 使用 Vulnhub 等 ova 格式镜像，需要将 ova 格式转为 qcow2，
 - https://github.com/libukai/awesome-agent-skills 快速入门、推荐技能、最新资讯与实战案例
 - https://github.com/JimLiu/baoyu-skills 适用于 Claude Code
 - https://github.com/anthropics/skills
+- https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md Skills 生成
+
 ## 提高生产力的辅助工具
 
 ### _LLM_
